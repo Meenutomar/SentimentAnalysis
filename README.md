@@ -16,7 +16,7 @@ Data cleaning involves preparing the dataset for analysis by handling missing va
 
 ### 4. Language Translation
 **Description**: 
-Since the reviews are in multiple languages, this step involves translating all reviews into a single language (e.g., English) using automated translation tools. This ensures consistency and allows for accurate sentiment analysis.
+Since the reviews are in multiple languages, this step involves translating all reviews into a single language (e.g., English) using automated translation using pretrained model 'Helsinki-NLP/opus-mt-mul-en. This ensures consistency and allows for accurate sentiment analysis.
 
 ### 5. Punctuation Removal
 **Description**: 
